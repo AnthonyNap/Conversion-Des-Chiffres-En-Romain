@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #e8d5f4;
     margin: 0;
     padding: 20px;
     color: #333;
@@ -15,7 +15,7 @@ h1 {
     max-width: 600px;
     margin: 30px auto;
     padding: 20px;
-    background: #fff;
+    background: #e8d5f4;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
 }
@@ -49,7 +49,7 @@ h1 {
     max-width: 600px;
     margin: 20px auto;
     padding: 20px;
-    background: #fff;
+    background: #e2e2e2;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
     text-align: center;
