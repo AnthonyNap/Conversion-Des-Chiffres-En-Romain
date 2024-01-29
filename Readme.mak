@@ -19,9 +19,9 @@ ouvrir index.html
 
 Technologies utilisées
 
-    HTML
-    CSS
-    JavaScript
+    HTML :
+    CSS :
+    JavaScript :
 
 Structure du Projet
 
